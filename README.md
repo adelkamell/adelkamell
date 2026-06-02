@@ -1,7 +1,8 @@
 <p align="center">
   <!-- آیکون‌های موجود در skillicons.dev -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,linux,c,django,flask,html,github,vscode,md" />
+    <img src="https://skillicons.dev/icons?i=python,git,linux,c,django,flask,html,css
+      ,github,vscode,md" />
   </a>
 </p>
 
