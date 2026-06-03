@@ -5,7 +5,8 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <img src="https://simpleskill.icons.workers.dev/svg?i=deepseek,chatbot" />
 </p>
-
+-->
