@@ -1,3 +1,6 @@
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adelkamell&theme=material_palenight)
+
+
 <p align="center">
   <!-- آیکون‌های موجود در skillicons.dev -->
   <a href="https://skillicons.dev">
