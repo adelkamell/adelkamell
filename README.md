@@ -9,7 +9,10 @@
 
 
 ## 🔎 My Github Status
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adelkamell&theme=material_palenight)
 
+![Top languages used in repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adelkamell&theme=material_palenight)
+![Top languages in commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adelkamell&theme=material_palenight)
 
 
 
